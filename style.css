@@ -200,11 +200,11 @@ header #sfondo_jumbo {
     margin-top: 5px;
 }
 
-.blocco_h6 {
+.blocco_testo {
     padding-top: 20px;
 }
 
-.blocco_h6 h6 {
+.blocco_testo h6 {
     font-size: 23px;
     min-height: 50px;
     color: #7fb802;
@@ -214,7 +214,7 @@ header #sfondo_jumbo {
     margin-top: 0;
     padding: 30px;
 }
-.blocco_h6 p {
+.blocco_testo p {
     font-size: 15px;
     font-weight: 300;
     line-height: 25px;
@@ -222,7 +222,7 @@ header #sfondo_jumbo {
     padding: 30px 30px;
 }
 
-.blocco_h6 hr {
+.blocco_testo hr {
     opacity: .3;
     border-top: 2px solid;
     width: 50px;
