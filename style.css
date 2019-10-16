@@ -236,3 +236,20 @@ button {
     width: 50px;
     display: inline-block;
 }
+
+#bottone_help {
+    display: block;
+    position: fixed;
+    background-color: rgb(123, 188, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    font-family: "proxima-nova", Arial, sans-serif;
+    font-size: 14px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    cursor: pointer;
+    padding: 8px 10px 21px;
+    z-index: 100000;
+    bottom: -12px;
+    right: 200px;
+}
