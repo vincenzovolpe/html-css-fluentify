@@ -41,6 +41,10 @@ button {
     font-weight: 700;
 }
 
+#piano_button_due{
+    padding: 20px
+}
+
 .container {
     width: 75%;
     height: 400px;
@@ -176,7 +180,6 @@ button {
 
 #main_content {
     width: 75%;
-    height: 500px;
     text-align: center;
     margin: 0 auto;
 }
