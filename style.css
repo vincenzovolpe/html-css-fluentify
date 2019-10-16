@@ -12,7 +12,19 @@ header {
     background-color: #0D325A;
     height: 400px;
     position: relative;
+    background-image: url("https://cdn.fluentify.com/bundles/fluentifypublic/images/r4b/01/oldman.png");
+    background-size: 40%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
 }
+
+/*header #sfondo_jumbo {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 800px;
+}
+*/
 
 button {
     padding: 6px 12px;
@@ -126,13 +138,6 @@ button {
     font-size: 45px;
     line-height: 55px;
     padding-right: 50px;
-}
-
-header #sfondo_jumbo {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 800px;
 }
 
 #content_top {
